@@ -1,5 +1,4 @@
-===========================
--Create demo with Angular 7
+Create demo with Angular 7
 ===========================
 -Create Project.
 -routing
